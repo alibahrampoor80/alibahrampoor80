@@ -8,8 +8,8 @@ Frontend , Mern Stack
 * ✉️  You can contact me at [ali.bahrampoor1380@gmail.com](mailto:ali.bahrampoor1380@gmail.com)
 * 🧠  I'm learning typescript React nextjs nodejs
 
-<a href="https://www.github.com/ali1380b" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ali1380b?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/alibahrampoor80" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/alibahrampoor80?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
