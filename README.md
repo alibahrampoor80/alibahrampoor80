@@ -41,10 +41,8 @@ src="https://img.shields.io/github/followers/alibahrampoor80?logo=github&style=f
 <p align="left"> <a href="https://www.github.com/ali1380b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ali.bmp_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17064375/ali-bahrampoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ali_bahrampoor_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ali1380b"><img src="https://github-readme-stats.vercel.app/api?username=ali1380b&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ali1380b's GitHub stats" /></a>
 
-<a href="http://www.github.com/ali1380b"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ali1380b&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <a href="https://github.com/ali1380b" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali1380b&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
