@@ -4,7 +4,7 @@ Hi 👋 My name is Ali Bahrampoor
 Frontend , Mern Stack
 ---------------------
 
-* 🌍  I'm based in iran kashan
+* 🌍  I'm based in kashan
 * ✉️  You can contact me at [ali.bahrampoor1380@gmail.com](mailto:ali.bahrampoor1380@gmail.com)
 * 🧠  I'm learning typescript React nextjs nodejs
 
