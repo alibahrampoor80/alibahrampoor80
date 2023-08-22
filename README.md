@@ -1,4 +1,4 @@
-Hi 👋 My name is Ali Bahrampoor
+Hi 👋 My Name is Ali Bahrampoor
 ===============================
 
 Frontend , Mern Stack
