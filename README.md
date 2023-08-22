@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/alibahrampoor80?logo=github&style=f
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,reactjs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,nextjs,bootstrap,tailwind,materialui,mysql,mongodb,redux,sass,webpack,babel,jquery,wordpress,xd,docker,git,github)](https://skillicons.dev)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
