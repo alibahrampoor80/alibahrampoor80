@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/alibahrampoor80?logo=github&style=f
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibahrampoor80&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibahrampoor80&show_icons=true&bg_color=30,0B60B0,D04848&title_color=fff&text_color=fff&count_private=true"
     alt="adam-pw" /></p>
 
 <br>
