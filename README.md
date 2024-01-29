@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/alibahrampoor80?logo=github&style=f
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,nextjs,bootstrap,tailwind,materialui,mysql,mongodb,redux,sass,webpack,babel,jquery,wordpress,xd,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,vue,vitejs,nextjs,bootstrap,tailwind,materialui,mysql,mongodb,redux,sass,webpack,babel,jquery,wordpress,xd,docker,git,github)](https://skillicons.dev)
 
 
 <br>
