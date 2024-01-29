@@ -14,7 +14,12 @@ src="https://img.shields.io/github/followers/alibahrampoor80?logo=github&style=f
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,express,nestjs,react,vue,vite,nextjs,bootstrap,tailwind,materialui,mysql,mongodb,redux,sass,webpack,babel,jquery,wordpress,xd,docker,git,github,postman,vitest,vscode)](https://skillicons.dev)
+<br>
 
+<div style="display:flex;">
+ <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=alibahrampoor80&data=followers,repositories,stars,commits&theme=carbon" />
+
+ </div>
 
 <br>
 
