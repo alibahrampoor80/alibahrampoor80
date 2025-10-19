@@ -4,9 +4,11 @@ Hi 👋 My Name is Ali Bahrampoor
 Frontend , Mern Stack
 ---------------------
 
-* 🌍  I'm based in kashan
-* ✉️  You can contact me at [ali.bahrampoor1380@gmail.com](mailto:ali.bahrampoor1380@gmail.com)
-* 🧠  I'm learning nodejs
+<div align="center">
+  <img alt="GIF" height="160px" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+  <img alt="GIF" height="160px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
+  <img alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+</div>
 
 <a href="https://www.github.com/alibahrampoor80" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alibahrampoor80?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
