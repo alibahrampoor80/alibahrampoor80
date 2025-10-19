@@ -1,9 +1,6 @@
 Hi 👋 My Name is Ali Bahrampoor
 ===============================
 
-Frontend , Mern Stack
----------------------
-
 <div align="center">
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
