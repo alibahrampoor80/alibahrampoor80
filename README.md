@@ -16,7 +16,7 @@ Frontend , Mern Stack
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=500&pause=1000&color=cyan&size=32&center=true&vCenter=true&width=435&lines=Front+end+developer;React.js;Next.js;Back+end+developer;Node.js;Javascript;Typescript;MERN+stack+developer;Three.js+Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=500&pause=1000&color=cyan&size=32&center=true&vCenter=true&width=435&lines=Front+end+developer;React.js;Next.js;Back+end+developer;Node.js;Javascript;Typescript;MERN+stack+developer">
   </a>
 </p>
 
